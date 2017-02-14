@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/johnstivers/cs103/lab-cstrings/hangman.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+cstring
+-
+
